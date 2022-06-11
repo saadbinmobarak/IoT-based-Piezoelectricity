@@ -1,0 +1,17 @@
+The coding file "SERIAL COM" should be uploaded to an Arduino UNO via the software: Arduino IDE
+
+
+
+
+The coding file "SKETCH_MAY20A" should be uploaded to an IoT Module (NodeMCU ESP8266 Lua V.1)
+
+
+
+
+Rules:
+
+1. First connect the IoT Module to desktop, and then upload the code.
+
+2. After uploading the code for IoT Module, then connect the Arduino board to dekstop. Upload the code for Arduino UNO.
+
+3. Check the 'Serial Monitor' option in ARDUINO IDE software to see if the codes or the devices are working properly or not.
